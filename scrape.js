@@ -22,7 +22,7 @@ async function run() {
     /**
      * Executes the browser actions requested
      */
-    await scrappey.get({
+    const get = await scrappey.get({
         "cmd": "request.get",
         "url": "https://www.mindfactory.de/product_info.php/12GB-Sapphire-Radeon-RX-6700-XT-Pulse-Aktiv-PCIe-4-0-x16--Retail-_1402365.html",
         "browserActions": [
@@ -36,6 +36,11 @@ async function run() {
             }
         ]
     })
+
+    /**
+     * Result
+     */
+    console.log(get)
 
     /**
      * Destroys the session, this will free up space for other users
