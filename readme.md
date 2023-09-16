@@ -32,3 +32,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Keywords for Mindfactory.de
 Web scraping, Python, Scrapy, E-commerce data, Computer hardware, Consumer electronics, Online retailer, Product listings, Price comparison, Tech products, Computer components, Graphics cards, Processors, Motherboards, Memory modules, Storage devices, Peripherals, Customer reviews, Competitive pricing, Quick delivery, Product details, Tech enthusiasts, PC builders.
+
+## Legal and Ethical Considerations
+
+Remember to adhere to legal and ethical guidelines when scraping websites. Always respect the website's terms of service and scraping policies. Ensure your use of the scraped data complies with applicable laws and regulations, especially regarding data privacy and intellectual property rights. 🚫⚖️
+
+*Disclaimer: This web scraping guide is intended solely for educational and informational purposes. Please use web scraping responsibly and in accordance with the terms and conditions of the target website.* 📚🔍
